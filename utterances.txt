@@ -1,0 +1,40 @@
+sample utterances
+
+"Alexa, ask YouTube Update For..."
+
+GGetSubCount current subscriber count
+GetSubCount subscriber count
+GetSubCount sub count
+GetSubCount subs
+GetSubCount how many subscribers do I have
+GetSubCount how many subs do I have
+
+GetViewCount current view count
+GetViewCount view count
+GetViewCount view count
+GetViewCount views
+GetViewCount how many views do I have
+GetViewCount how many views do I got
+
+SubCountThisMonth how many subs this month
+SubCountThisMonth how many subscribers have I got this month
+SubCountThisMonth how many subscribers have I gained this month
+SubCountThisMonth what is my subscriber count looking like this month
+
+ViewCountThisMonth how are my views this month
+ViewCountThisMonth how many views this month
+ViewCountThisMonth how many views have I got this month
+ViewCountThisMonth how many views have I gained this month
+ViewCountThisMonth what is my views count looking like this month
+
+GetViewSinceDate how are my views {SinceDate}
+GetViewSinceDate how many views {SinceDate}
+GetViewSinceDate how many views have I got {SinceDate}
+GetViewSinceDate how many views have I gained {SinceDate}
+GetViewSinceDate what is my view count {SinceDate}
+
+GetSubSinceDate how are my subs {SinceDate}
+GetSubSinceDate how many subscribers {SinceDate}
+GetSubSinceDate how many subscribers have I got {SinceDate}
+GetSubSinceDate how many subscribers have I gained {SinceDate}
+GetSubSinceDate what is my subscriber count {SinceDate}

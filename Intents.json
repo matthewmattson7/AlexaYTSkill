@@ -1,0 +1,51 @@
+{
+  "intents": [
+    {
+      "intent" : "GetSubCount"
+    },
+
+    {
+      "intent" : "GetViewCount"
+    },
+
+    {
+      "intent" : "SubCountThisMonth" ,
+      "slots" : [
+        {
+        "name" : "SinceDate" ,
+        "type" : "AMAZON.DATE"
+        }
+      ]
+    },
+
+    {
+      "intent" : "ViewCountThisMonth" ,
+      "slots" : [
+        {
+        "name" : "SinceDate" ,
+        "type" : "AMAZON.DATE"
+        }
+      ]
+    },
+ 	{
+      "intent" : "GetViewSinceDate" ,
+      "slots" : [
+        {
+        "name" : "SinceDate" ,
+        "type" : "AMAZON.DATE"
+        }
+      ]
+    } ,
+
+    {
+      "intent" : "GetSubSinceDate" ,
+      "slots" : [
+        {
+        "name" : "SinceDate" ,
+        "type" : "AMAZON.DATE"
+        }
+      ]
+    }
+
+  ]
+}
